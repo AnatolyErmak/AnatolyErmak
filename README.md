@@ -1,6 +1,6 @@
 ![Header](https://github.com/AnatolyErmak/AnatolyErmak/blob/master/assets/githubmd.png)
 
-About me
+## I'm a beginner front-end developer
 
 Languages and Tools
 
