@@ -11,7 +11,10 @@
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&=E9D54D)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&=E9D54D)
 
-Follow me
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AnatoliyErmak)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id35602419)
 
 
 
