@@ -16,6 +16,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AnatoliyErmak)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id35602419)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnatolyErmak&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
